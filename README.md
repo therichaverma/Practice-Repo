@@ -1,2 +1,2 @@
 # pythonpractice
-This is just for practice
+Here are some python programs i created for practice.
